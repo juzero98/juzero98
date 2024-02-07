@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=zuzero's%20github&fontSize=80)
+# State
+![zuzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=juzero98&show_icons=true)
+
+
 
 <!--
 **juzero98/juzero98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
